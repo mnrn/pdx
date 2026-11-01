@@ -1,0 +1,38 @@
+
+query GetPokemon($limit: Int!, $offset: Int!) {
+  pokemon(
+    limit: $limit
+    offset: $offset
+    order_by: [
+      {pokemon_species_id: asc}
+      {is_default: desc}
+      {order: asc}
+      {id: asc}
+    ]
+  ) {
+    id
+    name
+    pokemon_species_id
+    is_default
+
+    pokemonspecy {
+      pokemonspeciesnames(where: {language_id: {_eq: 1}}) {
+        name
+      }
+    }
+
+    pokemonforms {
+      is_mega
+      form_name
+      pokemonformnames(where: {language_id: {_eq: 1}}) {
+        name
+        pokemon_name
+      }
+    }
+
+    pokemonstats(order_by: {stat_id: asc}) {
+      stat_id
+      base_stat
+    }
+  }
+}

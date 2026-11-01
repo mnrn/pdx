@@ -1,0 +1,23 @@
+name = "pdx"
+version = "0.1.0"
+defaultTargets = ["pdx"]
+testDriver = "tests"
+
+[[require]]
+name = "LSpec"
+git = "https://github.com/argumentcomputer/LSpec"
+rev = "main"
+
+[[lean_exe]]
+name = "pdx"
+srcDir = "app"
+root = "Main"
+
+[[lean_exe]]
+name = "tests"
+srcDir = "tests"
+root = "Tests"
+
+[[lean_lib]]
+name = "PokeConvert"
+srcDir = "src"
