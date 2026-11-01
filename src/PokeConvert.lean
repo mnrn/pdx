@@ -47,7 +47,6 @@ structure Poke where
   stats : Stats
   deriving ToJson, Repr
 
-
 def japaneseName (p : RawPokemon) : Except String String := do
   let some species := p.pokemonspecy.pokemonspeciesnames[0]?
     | throw s!"Missing Japanese name: {p.name}"
@@ -55,18 +54,15 @@ def japaneseName (p : RawPokemon) : Except String String := do
   let forms := p.pokemonforms.toList.flatMap
     (fun f => f.pokemonformnames.toList)
 
-  let fullName := (forms.find? (fun f => !f.pokemon_name.isEmpty)).map (·.pokemon_name)
+  let providedName := (forms.find? (fun f => !f.pokemon_name.isEmpty)).map (·.pokemon_name)
   let formName := (forms.find? (fun f => !f.name.isEmpty)).map (·.name)
   let isMega := p.pokemonforms.any (·.is_mega)
 
-  let composed := formName.map fun name =>
-    if isMega || name.startsWith "ゲンシ" then
-      name
-    else
-      s!"{species.name}（{name}）"
+  let composedName :=
+    if isMega then formName
+    else formName.map fun name => s!"{species.name}（{name}）"
 
-  return (fullName <|> composed).getD species.name
-
+  return (providedName <|> composedName).getD species.name
 
 def getStat (p : RawPokemon) (id : Nat) : Except String Nat :=
   match p.pokemonstats.toList.filter (fun s => s.stat_id == id) with

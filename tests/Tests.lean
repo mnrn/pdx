@@ -34,6 +34,10 @@ def lookupPoke
 
 def pokemonTests (ps : Array RawPokemon) : TestSeq :=
   group "Pokemon" (
+    test "Mew" (
+      lookupPoke ps "mew" =
+        some ("ミュウ", #[100, 100, 100, 100, 100, 100])
+    ) ++
     test "Cresselia" (
       lookupPoke ps "cresselia" =
         some ("クレセリア", #[120, 70, 110, 75, 120, 85])
@@ -58,9 +62,9 @@ def pokemonTests (ps : Array RawPokemon) : TestSeq :=
       lookupPoke ps "ogerpon" =
         some ("オーガポン（みどりのめん）", #[80, 120, 84, 60, 96, 110])
     ) ++
-    test "Mew" (
-      lookupPoke ps "mew" =
-        some ("ミュウ", #[100, 100, 100, 100, 100, 100])
+    test "PrimalGroudon" (
+      lookupPoke ps "groudon-primal" =
+        some ("グラードン（ゲンシカイキのすがた）", #[100, 180, 160, 150, 90, 90])
     )
   )
 

@@ -56,13 +56,7 @@ The six stat keys correspond to **HP, Attack, Defense, Special Attack, Special D
 
 ## Tests
 
-```fish
-lake test
-```
-
 Tests use [LSpec](https://github.com/argumentcomputer/LSpec) and the downloaded `data/pokemon-raw.json`. Run the fetch step before testing on a fresh checkout.
-
-## Tests
 
 Run the regression tests using LSpec:
 
