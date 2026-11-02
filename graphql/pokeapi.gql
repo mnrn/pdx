@@ -23,6 +23,7 @@ query GetPokemon($limit: Int!, $offset: Int!) {
 
     pokemonforms {
       is_mega
+      is_battle_only
       form_name
       pokemonformnames(where: {language_id: {_eq: 1}}) {
         name

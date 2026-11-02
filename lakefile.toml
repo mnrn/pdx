@@ -19,5 +19,10 @@ srcDir = "tests"
 root = "Tests"
 
 [[lean_lib]]
+name = "PdxProofs"
+srcDir = "proofs"
+
+[[lean_lib]]
 name = "PokeConvert"
 srcDir = "src"
+roots = ["PokeData", "PokeConvert"]
