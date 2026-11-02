@@ -1,29 +1,29 @@
 # pdx
 
-`pdx` converts Pokémon data retrieved from [PokéAPI](https://pokeapi.co/) into a compact JSON dataset containing Japanese names and base stats. The conversion is implemented in **Lean 4**.
+`pdx` converts Pokémon data retrieved from [PokéAPI](https://pokeapi.co/) into a compact JSON dataset containing Japanese names and base stats. The converter, validation logic, and formal proofs are written in **Lean 4**.
 
-The current workflow uses a **fish** script and a GraphQL query to fetch data. HTTP/GraphQL fetching has not yet been implemented in Lean.
+Data fetching currently uses a **fish** script and a GraphQL query; HTTP/GraphQL fetching is not implemented in Lean.
 
 ## Requirements
 
 - Lean 4 and Lake (using the project's `lean-toolchain`)
-- fish
-- curl
-- jq
+- fish, curl, and jq (only needed to refresh the source data)
 
-Lake manages the LSpec test dependency.
+Lake manages the [LSpec](https://github.com/argumentcomputer/LSpec) test dependency.
 
 ## Usage
 
-Run the following commands from the repository root.
+Run the commands below from the repository root.
 
-### 1. Fetch data
+### 1. Source data
+
+A snapshot of `data/pokemon-raw.json` is committed to the repository so builds and tests can use a fixed dataset. To refresh it from PokéAPI, run:
 
 ```fish
 fish scripts/fetch_pokeapi.fish
 ```
 
-The script executes `graphql/pokeapi.gql` against the PokéAPI GraphQL endpoint, fetches paginated results and saves the merged response to `data/pokemon-raw.json`. Individual pages are cached under `data/pages/`.
+The script runs `graphql/pokeapi.gql`, fetches paginated results, and writes the merged response to `data/pokemon-raw.json`. Individual pages are cached under `data/pages/`.
 
 ### 2. Convert to JSON
 
@@ -52,32 +52,54 @@ Example output:
 ]
 ```
 
-The six stat keys correspond to **HP, Attack, Defense, Special Attack, Special Defense and Speed**, respectively. JSON object key order is not significant.
+The six stat keys correspond to HP, Attack, Defense, Special Attack, Special Defense, and Speed. JSON object key order is not significant.
 
 ## Tests
 
-Tests use [LSpec](https://github.com/argumentcomputer/LSpec) and the downloaded `data/pokemon-raw.json`. Run the fetch step before testing on a fresh checkout.
+Run the [LSpec](https://github.com/argumentcomputer/LSpec) suite:
 
-Run the regression tests using LSpec:
-
-```sh
+```fish
 lake test
 ```
+
+The suite includes individual conversion regression tests and dataset-wide checks that:
+
+- Every source record converts successfully.
+- Japanese names are unique (`NameUnique`).
+
+These checks run against the committed source-data snapshot. They verify these specific properties of that dataset, not the correctness of every naming or form-classification decision.
+
+The generated GitHub Actions workflow runs the project's Lake checks in CI.
+
+## Formal proofs
+
+Build the Lean proof modules with:
+
+```fish
+lake build PdxProofs
+```
+
+The proof modules include:
+
+- `NameUnique` and `NameDeterminesStats`, together with a proof that unique names imply that equal names determine equal stats.
+- `Reconstructable` and `unreconstructable_of_collision`, which show that a classification cannot be recovered from selected features if two records have the same features but different target classifications.
+
+These are general theorems about the definitions. Dataset-wide LSpec checks are separate executable validations; they do not by themselves establish a kernel-checked proof about the contents of the JSON file.
 
 ## Project layout
 
 ```text
 app/       Lean CLI entry point
 src/       Data types and conversion logic
-tests/     LSpec regression tests
+proofs/    Definitions and formal proofs
+tests/     LSpec regression and dataset tests
 graphql/   PokéAPI GraphQL query
-scripts/   fish fetch script
-data/      Downloaded and generated JSON (local data)
+scripts/   fish data-fetching script
+data/      Source-data snapshot and generated JSON
 ```
 
 ## Notes
 
-- Pokémon forms can have different base stats, so the conversion processes individual Pokémon records rather than species alone.
-- Japanese names sometimes require combining a species name with a form name. Mega Evolutions and other special forms require separate naming rules.
-- Name conversion is currently rule-based; the seven regression cases do not establish correctness for every Pokémon form.
-- Raw API responses and generated datasets are intended to remain local rather than be committed to Git.
+- Different Pokémon records, including alternate forms, may have different base stats. Conversion therefore operates on Pokémon records rather than species alone.
+- Japanese names may require combining a species name with form information. Special cases are handled with explicit naming rules.
+- Form classification is heuristic and includes exceptions. It is not a formally verified mapping of every Pokémon form.
