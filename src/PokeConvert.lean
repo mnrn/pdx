@@ -44,13 +44,13 @@ private def exceptionalName (name : String) : Option String :=
   | "zygarde-50-power-construct" =>
       some "ジガルデ（５０％フォルム・スワームチェンジ）"
   | "meowstic-male-mega" =>
-      some "メガニャオニクス（オス）"
+      some "メガニャオニクス（オスのすがた）"
   | "meowstic-female-mega" =>
-      some "メガニャオニクス（メス）"
+      some "メガニャオニクス（メスのすがた）"
   | "mimikyu-totem-disguised" =>
-      some "ミミッキュ（ぬし・ばけたすがた）"
+      some "ミミッキュ（ばけたすがた・ぬし）"
   | "mimikyu-totem-busted" =>
-      some "ミミッキュ（ぬし・ばれたすがた）"
+      some "ミミッキュ（ばれたすがた・ぬし）"
   | _ => none
 
 def resolveName (p : RawPokemon) : Except String String := do

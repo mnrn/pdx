@@ -1,6 +1,8 @@
 import Lean
 import LSpec
-import PokeConvert
+
+import PokeConvertTests
+import PokeDatasetTests
 
 open Lean LSpec
 
@@ -69,4 +71,7 @@ def pokemonTests (ps : Array RawPokemon) : TestSeq :=
 
 def main : IO UInt32 := do
   let pokemons ← loadPokemon
-  lspecIO (.ofList [("Pokemon", [pokemonTests pokemons])]) []
+  lspecIO (.ofList [
+    ("Pokemon", [pokemonTests pokemons]),
+    ("Dataset", [datasetTests pokemons])
+  ]) []
