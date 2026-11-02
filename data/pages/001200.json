@@ -1,0 +1,4812 @@
+[
+  {
+    "id": 905,
+    "name": "enamorus-incarnate",
+    "pokemon_species_id": 905,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ラブトロス"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "incarnate",
+        "pokemonformnames": [
+          {
+            "name": "けしんフォルム",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 74
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 135
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 106
+      }
+    ]
+  },
+  {
+    "id": 10249,
+    "name": "enamorus-therian",
+    "pokemon_species_id": 905,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ラブトロス"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "therian",
+        "pokemonformnames": [
+          {
+            "name": "れいじゅうフォルム",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 74
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 110
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 135
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 46
+      }
+    ]
+  },
+  {
+    "id": 906,
+    "name": "sprigatito",
+    "pokemon_species_id": 906,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ニャオハ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 61
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 54
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 65
+      }
+    ]
+  },
+  {
+    "id": 907,
+    "name": "floragato",
+    "pokemon_species_id": 907,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ニャローテ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 61
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 63
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 63
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 83
+      }
+    ]
+  },
+  {
+    "id": 908,
+    "name": "meowscarada",
+    "pokemon_species_id": 908,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "マスカーニャ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 76
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 110
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 81
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 123
+      }
+    ]
+  },
+  {
+    "id": 909,
+    "name": "fuecoco",
+    "pokemon_species_id": 909,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ホゲータ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 67
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 59
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 63
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 36
+      }
+    ]
+  },
+  {
+    "id": 910,
+    "name": "crocalor",
+    "pokemon_species_id": 910,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "アチゲータ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 81
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 78
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 58
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 49
+      }
+    ]
+  },
+  {
+    "id": 911,
+    "name": "skeledirge",
+    "pokemon_species_id": 911,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ラウドボーン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 104
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 110
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 66
+      }
+    ]
+  },
+  {
+    "id": 912,
+    "name": "quaxly",
+    "pokemon_species_id": 912,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "クワッス"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 50
+      }
+    ]
+  },
+  {
+    "id": 913,
+    "name": "quaxwell",
+    "pokemon_species_id": 913,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ウェルカモ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 65
+      }
+    ]
+  },
+  {
+    "id": 914,
+    "name": "quaquaval",
+    "pokemon_species_id": 914,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ウェーニバル"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 120
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 85
+      }
+    ]
+  },
+  {
+    "id": 915,
+    "name": "lechonk",
+    "pokemon_species_id": 915,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "グルトン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 54
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 35
+      }
+    ]
+  },
+  {
+    "id": 916,
+    "name": "oinkologne-male",
+    "pokemon_species_id": 916,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "パフュートン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "male",
+        "pokemonformnames": [
+          {
+            "name": "オスのすがた",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 110
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 59
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 65
+      }
+    ]
+  },
+  {
+    "id": 10254,
+    "name": "oinkologne-female",
+    "pokemon_species_id": 916,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "パフュートン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "female",
+        "pokemonformnames": [
+          {
+            "name": "メスのすがた",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 59
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 65
+      }
+    ]
+  },
+  {
+    "id": 917,
+    "name": "tarountula",
+    "pokemon_species_id": 917,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "タマンチュラ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 41
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 29
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 20
+      }
+    ]
+  },
+  {
+    "id": 918,
+    "name": "spidops",
+    "pokemon_species_id": 918,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ワナイダー"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 79
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 92
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 52
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 86
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 35
+      }
+    ]
+  },
+  {
+    "id": 919,
+    "name": "nymble",
+    "pokemon_species_id": 919,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "マメバッタ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 33
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 46
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 21
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 25
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 45
+      }
+    ]
+  },
+  {
+    "id": 920,
+    "name": "lokix",
+    "pokemon_species_id": 920,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "エクスレッグ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 71
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 102
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 78
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 52
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 92
+      }
+    ]
+  },
+  {
+    "id": 921,
+    "name": "pawmi",
+    "pokemon_species_id": 921,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "パモ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 20
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 25
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 60
+      }
+    ]
+  },
+  {
+    "id": 922,
+    "name": "pawmo",
+    "pokemon_species_id": 922,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "パモット"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 85
+      }
+    ]
+  },
+  {
+    "id": 923,
+    "name": "pawmot",
+    "pokemon_species_id": 923,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "パーモット"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 105
+      }
+    ]
+  },
+  {
+    "id": 924,
+    "name": "tandemaus",
+    "pokemon_species_id": 924,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ワッカネズミ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 75
+      }
+    ]
+  },
+  {
+    "id": 925,
+    "name": "maushold-family-of-four",
+    "pokemon_species_id": 925,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "イッカネズミ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "family-of-four",
+        "pokemonformnames": [
+          {
+            "name": "４ひきかぞく",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 74
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 111
+      }
+    ]
+  },
+  {
+    "id": 10257,
+    "name": "maushold-family-of-three",
+    "pokemon_species_id": 925,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "イッカネズミ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "family-of-three",
+        "pokemonformnames": [
+          {
+            "name": "３びきかぞく",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 74
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 111
+      }
+    ]
+  },
+  {
+    "id": 926,
+    "name": "fidough",
+    "pokemon_species_id": 926,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "パピモッチ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 37
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 30
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 65
+      }
+    ]
+  },
+  {
+    "id": 927,
+    "name": "dachsbun",
+    "pokemon_species_id": 927,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "バウッツェル"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 57
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 95
+      }
+    ]
+  },
+  {
+    "id": 928,
+    "name": "smoliv",
+    "pokemon_species_id": 928,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ミニーブ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 41
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 58
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 30
+      }
+    ]
+  },
+  {
+    "id": 929,
+    "name": "dolliv",
+    "pokemon_species_id": 929,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "オリーニョ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 52
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 53
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 78
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 78
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 33
+      }
+    ]
+  },
+  {
+    "id": 930,
+    "name": "arboliva",
+    "pokemon_species_id": 930,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "オリーヴァ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 78
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 69
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 125
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 109
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 39
+      }
+    ]
+  },
+  {
+    "id": 931,
+    "name": "squawkabilly-green-plumage",
+    "pokemon_species_id": 931,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "イキリンコ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "green-plumage",
+        "pokemonformnames": [
+          {
+            "name": "グリーンフェザー",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 82
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 96
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 92
+      }
+    ]
+  },
+  {
+    "id": 10260,
+    "name": "squawkabilly-blue-plumage",
+    "pokemon_species_id": 931,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "イキリンコ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "blue-plumage",
+        "pokemonformnames": [
+          {
+            "name": "ブルーフェザー",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 82
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 96
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 92
+      }
+    ]
+  },
+  {
+    "id": 10261,
+    "name": "squawkabilly-yellow-plumage",
+    "pokemon_species_id": 931,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "イキリンコ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "yellow-plumage",
+        "pokemonformnames": [
+          {
+            "name": "イエローフェザー",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 82
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 96
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 92
+      }
+    ]
+  },
+  {
+    "id": 10262,
+    "name": "squawkabilly-white-plumage",
+    "pokemon_species_id": 931,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "イキリンコ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "white-plumage",
+        "pokemonformnames": [
+          {
+            "name": "ホワイトフェザー",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 82
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 96
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 92
+      }
+    ]
+  },
+  {
+    "id": 932,
+    "name": "nacli",
+    "pokemon_species_id": 932,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "コジオ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 25
+      }
+    ]
+  },
+  {
+    "id": 933,
+    "name": "naclstack",
+    "pokemon_species_id": 933,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ジオヅム"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 35
+      }
+    ]
+  },
+  {
+    "id": 934,
+    "name": "garganacl",
+    "pokemon_species_id": 934,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "キョジオーン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 130
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 35
+      }
+    ]
+  },
+  {
+    "id": 935,
+    "name": "charcadet",
+    "pokemon_species_id": 935,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "カルボウ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 35
+      }
+    ]
+  },
+  {
+    "id": 936,
+    "name": "armarouge",
+    "pokemon_species_id": 936,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "グレンアルマ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 125
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 75
+      }
+    ]
+  },
+  {
+    "id": 937,
+    "name": "ceruledge",
+    "pokemon_species_id": 937,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ソウブレイズ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 125
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 85
+      }
+    ]
+  },
+  {
+    "id": 938,
+    "name": "tadbulb",
+    "pokemon_species_id": 938,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ズピカ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 61
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 31
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 41
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 59
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 45
+      }
+    ]
+  },
+  {
+    "id": 939,
+    "name": "bellibolt",
+    "pokemon_species_id": 939,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ハラバリー"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 109
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 64
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 91
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 103
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 83
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 45
+      }
+    ]
+  },
+  {
+    "id": 940,
+    "name": "wattrel",
+    "pokemon_species_id": 940,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "カイデン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 70
+      }
+    ]
+  },
+  {
+    "id": 941,
+    "name": "kilowattrel",
+    "pokemon_species_id": 941,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "タイカイデン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 105
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 125
+      }
+    ]
+  },
+  {
+    "id": 942,
+    "name": "maschiff",
+    "pokemon_species_id": 942,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "オラチフ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 78
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 51
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 51
+      }
+    ]
+  },
+  {
+    "id": 943,
+    "name": "mabosstiff",
+    "pokemon_species_id": 943,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "マフィティフ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 120
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 85
+      }
+    ]
+  },
+  {
+    "id": 944,
+    "name": "shroodle",
+    "pokemon_species_id": 944,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "シルシュルー"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 75
+      }
+    ]
+  },
+  {
+    "id": 945,
+    "name": "grafaiai",
+    "pokemon_species_id": 945,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "タギングル"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 63
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 95
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 72
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 110
+      }
+    ]
+  },
+  {
+    "id": 946,
+    "name": "bramblin",
+    "pokemon_species_id": 946,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "アノクサ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 30
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 60
+      }
+    ]
+  },
+  {
+    "id": 947,
+    "name": "brambleghast",
+    "pokemon_species_id": 947,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "アノホラグサ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 90
+      }
+    ]
+  },
+  {
+    "id": 948,
+    "name": "toedscool",
+    "pokemon_species_id": 948,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ノノクラゲ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 70
+      }
+    ]
+  },
+  {
+    "id": 949,
+    "name": "toedscruel",
+    "pokemon_species_id": 949,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "リククラゲ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 120
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 100
+      }
+    ]
+  },
+  {
+    "id": 950,
+    "name": "klawf",
+    "pokemon_species_id": 950,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ガケガニ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 75
+      }
+    ]
+  },
+  {
+    "id": 951,
+    "name": "capsakid",
+    "pokemon_species_id": 951,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "カプサイジ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 62
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 62
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 50
+      }
+    ]
+  },
+  {
+    "id": 952,
+    "name": "scovillain",
+    "pokemon_species_id": 952,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "スコヴィラン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 108
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 108
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 75
+      }
+    ]
+  },
+  {
+    "id": 10320,
+    "name": "scovillain-mega",
+    "pokemon_species_id": 952,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "スコヴィラン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": true,
+        "is_battle_only": true,
+        "form_name": "mega",
+        "pokemonformnames": [
+          {
+            "name": "メガスコヴィラン",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 138
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 138
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 75
+      }
+    ]
+  },
+  {
+    "id": 953,
+    "name": "rellor",
+    "pokemon_species_id": 953,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "シガロコ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 41
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 31
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 58
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 30
+      }
+    ]
+  },
+  {
+    "id": 954,
+    "name": "rabsca",
+    "pokemon_species_id": 954,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ベラカス"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 45
+      }
+    ]
+  },
+  {
+    "id": 955,
+    "name": "flittle",
+    "pokemon_species_id": 955,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ヒラヒナ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 30
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 30
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 30
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 75
+      }
+    ]
+  },
+  {
+    "id": 956,
+    "name": "espathra",
+    "pokemon_species_id": 956,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "クエスパトラ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 95
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 101
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 105
+      }
+    ]
+  },
+  {
+    "id": 957,
+    "name": "tinkatink",
+    "pokemon_species_id": 957,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "カヌチャン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 64
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 58
+      }
+    ]
+  },
+  {
+    "id": 958,
+    "name": "tinkatuff",
+    "pokemon_species_id": 958,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ナカヌチャン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 82
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 78
+      }
+    ]
+  },
+  {
+    "id": 959,
+    "name": "tinkaton",
+    "pokemon_species_id": 959,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "デカヌチャン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 77
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 105
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 94
+      }
+    ]
+  },
+  {
+    "id": 960,
+    "name": "wiglett",
+    "pokemon_species_id": 960,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ウミディグダ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 10
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 25
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 25
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 95
+      }
+    ]
+  },
+  {
+    "id": 961,
+    "name": "wugtrio",
+    "pokemon_species_id": 961,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ウミトリオ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 120
+      }
+    ]
+  },
+  {
+    "id": 962,
+    "name": "bombirdier",
+    "pokemon_species_id": 962,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "オトシドリ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 103
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 82
+      }
+    ]
+  },
+  {
+    "id": 963,
+    "name": "finizen",
+    "pokemon_species_id": 963,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ナミイルカ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 75
+      }
+    ]
+  },
+  {
+    "id": 964,
+    "name": "palafin-zero",
+    "pokemon_species_id": 964,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "イルカマン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "zero",
+        "pokemonformnames": [
+          {
+            "name": "ナイーブフォルム",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 72
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 53
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 62
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 100
+      }
+    ]
+  },
+  {
+    "id": 10256,
+    "name": "palafin-hero",
+    "pokemon_species_id": 964,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "イルカマン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": true,
+        "form_name": "hero",
+        "pokemonformnames": [
+          {
+            "name": "マイティフォルム",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 160
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 97
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 106
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 87
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 100
+      }
+    ]
+  },
+  {
+    "id": 965,
+    "name": "varoom",
+    "pokemon_species_id": 965,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ブロロン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 63
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 30
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 47
+      }
+    ]
+  },
+  {
+    "id": 966,
+    "name": "revavroom",
+    "pokemon_species_id": 966,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ブロロローム"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 119
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 54
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 67
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 90
+      }
+    ]
+  },
+  {
+    "id": 967,
+    "name": "cyclizar",
+    "pokemon_species_id": 967,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "モトトカゲ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 95
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 121
+      }
+    ]
+  },
+  {
+    "id": 968,
+    "name": "orthworm",
+    "pokemon_species_id": 968,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ミミズズ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 145
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 65
+      }
+    ]
+  },
+  {
+    "id": 969,
+    "name": "glimmet",
+    "pokemon_species_id": 969,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "キラーメ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 48
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 35
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 42
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 105
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 60
+      }
+    ]
+  },
+  {
+    "id": 970,
+    "name": "glimmora",
+    "pokemon_species_id": 970,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "キラフロル"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 83
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 130
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 81
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 86
+      }
+    ]
+  },
+  {
+    "id": 10321,
+    "name": "glimmora-mega",
+    "pokemon_species_id": 970,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "キラフロル"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": true,
+        "is_battle_only": true,
+        "form_name": "mega",
+        "pokemonformnames": [
+          {
+            "name": "メガキラフロル",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 83
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 105
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 150
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 96
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 101
+      }
+    ]
+  },
+  {
+    "id": 971,
+    "name": "greavard",
+    "pokemon_species_id": 971,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ボチ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 61
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 30
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 34
+      }
+    ]
+  },
+  {
+    "id": 972,
+    "name": "houndstone",
+    "pokemon_species_id": 972,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ハカドッグ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 72
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 101
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 97
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 68
+      }
+    ]
+  },
+  {
+    "id": 973,
+    "name": "flamigo",
+    "pokemon_species_id": 973,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "カラミンゴ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 82
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 74
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 64
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 90
+      }
+    ]
+  },
+  {
+    "id": 974,
+    "name": "cetoddle",
+    "pokemon_species_id": 974,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "アルクジラ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 108
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 68
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 30
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 40
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 43
+      }
+    ]
+  },
+  {
+    "id": 975,
+    "name": "cetitan",
+    "pokemon_species_id": 975,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ハルクジラ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 170
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 113
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 73
+      }
+    ]
+  },
+  {
+    "id": 976,
+    "name": "veluza",
+    "pokemon_species_id": 976,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ミガルーサ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 102
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 73
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 78
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 70
+      }
+    ]
+  },
+  {
+    "id": 977,
+    "name": "dondozo",
+    "pokemon_species_id": 977,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ヘイラッシャ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 150
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 35
+      }
+    ]
+  },
+  {
+    "id": 978,
+    "name": "tatsugiri-curly",
+    "pokemon_species_id": 978,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "シャリタツ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "curly",
+        "pokemonformnames": [
+          {
+            "name": "そったすがた",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 68
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 120
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 95
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 82
+      }
+    ]
+  },
+  {
+    "id": 10258,
+    "name": "tatsugiri-droopy",
+    "pokemon_species_id": 978,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "シャリタツ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "droopy",
+        "pokemonformnames": [
+          {
+            "name": "たれたすがた",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 68
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 120
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 95
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 82
+      }
+    ]
+  },
+  {
+    "id": 10259,
+    "name": "tatsugiri-stretchy",
+    "pokemon_species_id": 978,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "シャリタツ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "stretchy",
+        "pokemonformnames": [
+          {
+            "name": "のびたすがた",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 68
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 120
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 95
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 82
+      }
+    ]
+  },
+  {
+    "id": 10322,
+    "name": "tatsugiri-curly-mega",
+    "pokemon_species_id": 978,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "シャリタツ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": true,
+        "is_battle_only": true,
+        "form_name": "mega",
+        "pokemonformnames": [
+          {
+            "name": "メガシャリタツ",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 68
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 135
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 125
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 92
+      }
+    ]
+  },
+  {
+    "id": 10323,
+    "name": "tatsugiri-droopy-mega",
+    "pokemon_species_id": 978,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "シャリタツ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": true,
+        "is_battle_only": true,
+        "form_name": "mega",
+        "pokemonformnames": [
+          {
+            "name": "メガシャリタツ",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 68
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 135
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 125
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 92
+      }
+    ]
+  },
+  {
+    "id": 10324,
+    "name": "tatsugiri-stretchy-mega",
+    "pokemon_species_id": 978,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "シャリタツ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": true,
+        "is_battle_only": true,
+        "form_name": "mega",
+        "pokemonformnames": [
+          {
+            "name": "メガシャリタツ",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 68
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 135
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 125
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 92
+      }
+    ]
+  },
+  {
+    "id": 979,
+    "name": "annihilape",
+    "pokemon_species_id": 979,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "コノヨザル"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 110
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 50
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 90
+      }
+    ]
+  },
+  {
+    "id": 980,
+    "name": "clodsire",
+    "pokemon_species_id": 980,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ドオー"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 130
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 45
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 20
+      }
+    ]
+  },
+  {
+    "id": 981,
+    "name": "farigiraf",
+    "pokemon_species_id": 981,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "リキキリン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 120
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 90
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 110
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 70
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 60
+      }
+    ]
+  },
+  {
+    "id": 982,
+    "name": "dudunsparce-two-segment",
+    "pokemon_species_id": 982,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ノココッチ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "two-segment",
+        "pokemonformnames": [
+          {
+            "name": "ふたふしフォルム",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 125
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 55
+      }
+    ]
+  },
+  {
+    "id": 10255,
+    "name": "dudunsparce-three-segment",
+    "pokemon_species_id": 982,
+    "is_default": false,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ノココッチ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "three-segment",
+        "pokemonformnames": [
+          {
+            "name": "みつふしフォルム",
+            "pokemon_name": ""
+          }
+        ]
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 125
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 80
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 75
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 55
+      }
+    ]
+  },
+  {
+    "id": 983,
+    "name": "kingambit",
+    "pokemon_species_id": 983,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ドドゲザン"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 100
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 135
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 120
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 60
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 50
+      }
+    ]
+  },
+  {
+    "id": 984,
+    "name": "great-tusk",
+    "pokemon_species_id": 984,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "イダイナキバ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 131
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 131
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 53
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 53
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 87
+      }
+    ]
+  },
+  {
+    "id": 985,
+    "name": "scream-tail",
+    "pokemon_species_id": 985,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "サケブシッポ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 99
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 65
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 115
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 111
+      }
+    ]
+  },
+  {
+    "id": 986,
+    "name": "brute-bonnet",
+    "pokemon_species_id": 986,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "アラブルタケ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 111
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 127
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 99
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 79
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 99
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 55
+      }
+    ]
+  },
+  {
+    "id": 987,
+    "name": "flutter-mane",
+    "pokemon_species_id": 987,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "ハバタクカミ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 55
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 135
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 135
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 135
+      }
+    ]
+  },
+  {
+    "id": 988,
+    "name": "slither-wing",
+    "pokemon_species_id": 988,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "チヲハウハネ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 135
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 79
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 105
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 81
+      }
+    ]
+  },
+  {
+    "id": 989,
+    "name": "sandy-shocks",
+    "pokemon_species_id": 989,
+    "is_default": true,
+    "pokemonspecy": {
+      "pokemonspeciesnames": [
+        {
+          "name": "スナノケガワ"
+        }
+      ]
+    },
+    "pokemonforms": [
+      {
+        "is_mega": false,
+        "is_battle_only": false,
+        "form_name": "",
+        "pokemonformnames": []
+      }
+    ],
+    "pokemonstats": [
+      {
+        "stat_id": 1,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 2,
+        "base_stat": 81
+      },
+      {
+        "stat_id": 3,
+        "base_stat": 97
+      },
+      {
+        "stat_id": 4,
+        "base_stat": 121
+      },
+      {
+        "stat_id": 5,
+        "base_stat": 85
+      },
+      {
+        "stat_id": 6,
+        "base_stat": 101
+      }
+    ]
+  }
+]
